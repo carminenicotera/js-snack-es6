@@ -16,5 +16,3 @@ for (let i = 1; i < bici.length; i++) {
 }
 
 console.log('La bici con peso minore è:', pesoMin);
-
-
